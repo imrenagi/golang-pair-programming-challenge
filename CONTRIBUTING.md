@@ -4,7 +4,7 @@
 
 Please install these software and hardware:
 
-1. VSCode Liveshare
+1. VSCode. 
 1. Skype
 1. Working microphone & webcam/camera
 1. Decent Internet Connection (preferably at least 10MBps). Do not use Indihome LMAO
@@ -15,6 +15,7 @@ Please install these software and hardware:
 1. Pick your best outfit. You can use your traditional dress if you have any. lol
 1. Imre will tell you which problem that we will solve. 
 1. We will check the all setup 30 mins before going live. 
+1. Imre will also send you the link for VSCode Liveshare and share the terminal as well.
 
 ## During Pairing
 
