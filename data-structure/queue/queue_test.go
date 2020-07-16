@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	. "github.com/imrenagi/pp-challenge/queue"
+	. "github.com/imrenagi/pp-challenge/data-structure/queue"
 )
 
 func TestNewQueue(t *testing.T) {

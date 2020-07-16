@@ -3,7 +3,7 @@ package tree_test
 import (
 	"testing"
 
-	. "github.com/imrenagi/pp-challenge/tree"
+	. "github.com/imrenagi/pp-challenge/data-structure/tree"
 	"github.com/stretchr/testify/assert"
 )
 
